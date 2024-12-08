@@ -37,4 +37,4 @@ dashboard-website/
 ### Installation  
 1. Clone the repository:  
    ```bash  
-   git clone 
+   git clone https://github.com/mariyajohn0/dashboard-website.git
